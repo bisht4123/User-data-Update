@@ -124,21 +124,6 @@ CREATE TABLE user (
 );
 ```
 
----
-
-## 📸 Screenshots
-
-### Home Page
-> Shows total number of users in the database
-
-### All Users
-> Displays all users in a table with edit option
-
-### Edit Username
-> Password-protected form to update username
-
----
-
 ## 📌 Key Concepts Covered
 
 - Connecting **Node.js with MySQL** using `mysql2` package
@@ -152,21 +137,9 @@ CREATE TABLE user (
 
 ---
 
-## 🚀 Learning Resource
-
-Built while following the **Sigma 8.0 Course** by [Apna College](https://www.apnacollege.in/)
-> Backend 5 — Node.js with SQL (Day 36)
-
----
-
 ## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
+Narendra Singh Bisht
+GitHub: [@your_username](https://github.com/bisht4123)
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
